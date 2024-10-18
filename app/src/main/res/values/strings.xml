@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MarioBros</string>
+    <string name="nombre_app">Super Mario Bros App</string>
+    <string name="pantalla_inicio">Pantalla de inicio</string>
+    <string name="personaje_de_mario">Persona de mario</string>
+    <string name="descripcion">Descripcion:</string>
+    <string name="habilidades">Habilidades:</string>
+    <string name="caracteristicas">Caracteristicas:</string>
+    <string name="nombre">Nombre: </string>
+    <string name="botonVolver">Volver a la lista</string>
+    <string name="menu">Acerca de...</string>
+    <string name="ajust">Ajustes</string>
+    <string name="idioma"> Spanish</string>
+    <!---->
+    <string name="open_drawer">Abrir menú</string>
+    <string name="close_drawer">Cerrar menú</string>
+    <string name="header_image_desc">profile image</string>
+    <string name="personajes">Personajes</string>
+    <string name="Home">Home</string>
+    <string name="profile_image_desc">Portada navegacion lateral</string>
+
+</resources>
